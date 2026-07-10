@@ -4,7 +4,8 @@ A Currency Converter built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Converter Using](Screenshot%20(204).png)
+![Converter Using](Screenshot%20(205).png)
+
 ## 🚀 Live Demo
 
 https://converter-with-html-css-javascript.netlify.app/
